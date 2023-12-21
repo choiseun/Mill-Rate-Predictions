@@ -12,4 +12,4 @@
 
 ### Summary
 
-The primary objective of this project was to build regression models in Python to predict mill rates (used in calculating property taxes) for properties in Connecticut with an R-squared of 99.4% and MSE of 0.713.
+In this project, I was able to build regression models in Python to predict mill rates (used in calculating property taxes) for properties in Connecticut with an R-squared of 99.4% and MSE of 0.713.
