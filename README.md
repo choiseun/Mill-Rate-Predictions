@@ -1,7 +1,5 @@
 ## Real Estate Sales Analysis to Predict Mill Rates in Connecticut
 
----
-
 ### Technical Skills
 
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
